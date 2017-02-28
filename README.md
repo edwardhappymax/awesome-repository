@@ -13,3 +13,6 @@ A record of awesome repositories on GitHub
 
 [JavaScript前端拖拽库](https://github.com/bevacqua/dragula)
 
+## Python
+[CPython源码](https://github.com/python/cpython)
+
